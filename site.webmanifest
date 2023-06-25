@@ -1,0 +1,23 @@
+   {
+    "name": "Coding Team",
+    "short_name": "Coding Team",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptAsZvvFL5G84j865io7PzBp-AExw1YjaHX2MwNnss0DsXOWizvNwARQcuY0WnyEG9r7j50_Hz7Y2kDhK6iiVNywlG9JzVbmEjbzOpdKc4ZyhBXXGjdomkwL1ollVEH5EHk8OKois5k4HhmigyG6kUi7l4r48P4qVgm9wnbw6ntEE24v6yLIWauvTsfQ/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP84HDa9atMNueCrMU1xinGBB52unMPfKKGzZ4m823PkdSpR0Oc2uxosPdQyLQ5HZhe3ClTrXf_w6aKPEKjaf9p-brI62zNxex_IPM4kzglvKawnmPmNfTz6An4RPWYGWNa6Ufw4VG6aDieJf3pN05L3BMFYC-wROODle14CVn-oAqRnCgAQ53b_tnzqA/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.codingteam.tech"
+}
