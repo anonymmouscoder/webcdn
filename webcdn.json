@@ -1,18 +1,18 @@
 {
-"product": {
-"name": "Coding Team",
-"description": "Coding Team est un blog de programmation dédié au partage de contenu sur la programmation, les tutoriels informatiques, la sécurité informatique et bien plus encore. Rejoignez-nous pour rester à jour avec les dernières nouvelles et tendances dans le monde de la programmation et de la technologie."
-},
-"organization": {
-"name": "Coding Team",
-"website": "https://codingteam.tech",
-"blog": "https://www.codingteam.tech",
-"api": "https:/t.me/CodingApis",
-"developers": [
-{
-"name": "Aliou",
-"uri": "https:/t.me/A_liou"
-}
-]
-}
+  "product": {
+    "name": "Coding Team",
+    "description": "Coding Team est un blog de programmation dédié au partage de contenu sur la programmation, les tutoriels informatiques, la sécurité informatique et bien plus encore. Rejoignez-nous pour rester à jour avec les dernières nouvelles et tendances dans le monde de la programmation et de la technologie."
+  },
+  "organization": {
+    "name": "Coding Team",
+    "website": "https://codingteam.tech",
+    "blog": "https://www.codingteam.tech",
+    "api": "https://t.me/CodingApis", 
+    "developers": [
+      {
+        "name": "Aliou",
+        "uri": "https://t.me/A_liou" 
+      }
+    ]
+  }
 }
